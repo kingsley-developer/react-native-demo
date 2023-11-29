@@ -3,7 +3,7 @@
         "id": 1,
         "Name": "Lord Raiden",
         "Realm": "Earth Realm",
-        "img_src": "",
+        "img_src": "../../Mortal-Kombat-characters/Earth-Realm/Raiden-Mortal-Kombat.jpg",
         "powers": [],
         "weaknesses": []
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "Name": "Kun Lao",
         "Realm": "Earth Realm",
-        "img_src": "",
+        "img_src": "../../Mortal-Kombat-characters/Earth-Realm/dothisone.png",
         "powers": [],
         "weaknesses": []
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "Name": "Journey Cage",
         "Realm": "Earth Realm",
-        "img_src": "",
+        "img_src": "../../Mortal-Kombat-characters/Earth-Realm/Johnny_Render_mk_11.png",
         "powers": [],
         "weaknesses": []
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "Name": "Sonya Blade",
         "Realm": "Earth Realm",
-        "img_src": "",
+        "img_src": "../../Mortal-Kombat-characters/Earth-Realm/hero(0).png",
         "powers": [],
         "weaknesses": []
     },
@@ -50,16 +50,16 @@
     {
         "id": 7,
         "Name": "Scorpion",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/latest(3).jpg",
         "powers": [],
         "weaknesses": []
     },
     {
         "id": 8,
         "Name": "Mileena",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/b14d8f39575da5e05b31d40cd1157e0f.jpg",
         "powers": [],
         "weaknesses": []
     },
@@ -74,8 +74,8 @@
     {
         "id": 10,
         "Name": "Mad God Shinnock",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/latest(8).jpg",
         "powers": [],
         "weaknesses": []
     },
@@ -106,24 +106,24 @@
     {
         "id": 14,
         "Name": "Jade",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/1786182-jade_mortal_kombat.png",
         "powers": [],
         "weaknesses": []
     },
     {
         "id": 15,
         "Name": "Prince Goro",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/latest(6).jpg",
         "powers": [],
         "weaknesses": []
     },
     {
         "id": 16,
         "Name": "Sub-Zero",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/225.jpg",
         "powers": [],
         "weaknesses": []
     },
@@ -178,8 +178,8 @@
     {
         "id": 23,
         "Name": "Jax",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Earth Realm",
+        "img_src": "../../Mortal-Kombat-characters/Earth-Realm/Jax-MKX-Mortal-Kombat-X-Tournament-Costume-Skin-Render.png",
         "powers": [],
         "weaknesses": []
     },
@@ -234,8 +234,8 @@
     {
         "id": 30,
         "Name": "Ashrah",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/ashrah.jpg",
         "powers": [],
         "weaknesses": []
     },
@@ -274,8 +274,8 @@
     {
         "id": 35,
         "Name": "Lui Kang",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Earth Realm",
+        "img_src": "../../Mortal-Kombat-characters/Earth-Realm/latest(20).jpg",
         "powers": [],
         "weaknesses": []
     },
@@ -290,22 +290,38 @@
     {
         "id": 37,
         "Name": "Quan Chi",
-        "Realm": "",
-        "img_src": "",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/latest(7).jpg",
         "powers": [],
         "weaknesses": []
     },
     {
         "id": 38,
         "Name": "Nitara",
+        "Realm": "Nether Realm",
+        "img_src": "../../Mortal-Kombat-characters/Nether-Realm/latest(0).jpg",
+        "powers": [],
+        "weaknesses": []
+    },
+    {
+        "id": 39,
+        "Name": "Shang Tsung",
         "Realm": "",
         "img_src": "",
         "powers": [],
         "weaknesses": []
     },
     {
-        "id": 39,
-        "Name": "Devoir",
+        "id": 40,
+        "Name": "D'Vorah",
+        "Realm": "",
+        "img_src": "",
+        "powers": [],
+        "weaknesses": []
+    },
+    {
+        "id": 41,
+        "Name": "Kai",
         "Realm": "",
         "img_src": "",
         "powers": [],
